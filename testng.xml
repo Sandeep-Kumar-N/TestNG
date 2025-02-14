@@ -8,7 +8,7 @@
         <classes>
             <class name="RetryClass">
                 <methods>
-                    <exclude name="rerun_this_method1"></exclude>
+                    <exclude name="rerun_this_method2"></exclude>
                 </methods>
             </class>
         </classes>
